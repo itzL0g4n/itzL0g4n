@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫About Me :
-- 🔭 I’m currently working on some Advance Discord Music Bot projects!
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently working on WebApp Development!
+- 🌱 I’m currently learning TypeScript and JavaScript:)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tom.boc.xi.mang) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itz.infurness) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfpPvs40lKwU_0RlRnUZjHg) 
