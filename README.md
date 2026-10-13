@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebApp Development!<br>🌱 I’m currently learning Node.JS and React:)<br>📖 I'm a freshmen at USSH-VNUHCM
+🔭 I’m currently working on WebApp Development!<br>🌱 I’m currently learning Node.JS and React:)<br>📖 I'm a sophomore at USSH-VNUHCM
 
 
 # 💻 Tech Stack:
