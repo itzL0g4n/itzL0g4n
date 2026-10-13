@@ -66,7 +66,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itzL0g4n&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub statistics for itzL0g4n" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=itzL0g4n&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for itzL0g4n" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=itzL0g4n&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for itzL0g4n" />
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzL0g4n&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="90%" />
+  <img src="https://trophy.ryglcloud.net/?username=itzL0g4n&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="90%" />
 </div>
 
 ---
